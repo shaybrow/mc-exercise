@@ -3,3 +3,6 @@ This is what Bob & Carol did on Bob’s computer when working on the first featu
 
 What's brown and sticky...? A stick!
 
+This is what Bob and Carol did on Bob's computer when working on the first feature
+
+ate some chips and salsa 
