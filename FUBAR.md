@@ -5,6 +5,14 @@ What's brown and sticky...? A stick!
 
 This is what Bob and Carol did on Bob's computer when working on the first feature
 
+
+ate some chips and salsa
+
+Santa Claus isn't real.
+
+The toothfairy isn't real.
+
 ate some chips and salsa 
 
 why can't all our code just get along?
+
